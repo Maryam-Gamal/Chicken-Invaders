@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Rooster-call-sound.mp3</file>
+        <file>blaster-2-81267.mp3</file>
+        <file>CHICKEN INVADERS [ SMS Music! ] (256  kbps) (ss.shabakngy.com).mp3</file>
+    </qresource>
+    <qresource prefix="/photos">
+        <file>arrow.png</file>
+        <file>chicken4.png</file>
+        <file>rocket2.png</file>
+        <file>stars_space_galaxy_.jpg.png</file>
+    </qresource>
+</RCC>
